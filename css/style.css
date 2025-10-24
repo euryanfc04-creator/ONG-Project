@@ -283,7 +283,7 @@ footer {
   .menu ul {
     display: none;
     flex-direction: column;
-    background: white;
+    background: whitesmoke;
     position: absolute;
     top: 70px;
     right: 10px;
@@ -301,7 +301,7 @@ footer {
     padding: 10px 0;
   }
   .menu ul li a {
-    color: var(--cor-primaria);
+    color: white;
   }
   .banner {
     height: 300px;
