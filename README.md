@@ -50,7 +50,7 @@ O projeto foi desenvolvido em conformidade com as diretrizes da **WCAG 2.1 Níve
 O site foi publicado utilizando **GitHub Pages**.  
 Para acessar a página, use o link abaixo:
 
-🔗 [Clique aqui para acessar o site da ONG Esperança Viva]([https://seuusuario.github.io/esperanca-viva](https://euryanfc04-creator.github.io/ONG-Project))
+🔗 [Clique aqui para acessar o site da ONG Esperança Viva](https://euryanfc04-creator.github.io/ONG-Project)
 
 ---
 
