@@ -55,3 +55,38 @@ Para acessar a página, use o link abaixo:
 ---
 
 ## 🧱 Estrutura de Pastas
+ONG-PROJECT/
+├── index.html
+├── projetos.html
+├── cadastro.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── imagens/
+│ ├── banner.jpg
+│ ├── educacao.jpg
+│ ├── alimentar.jpg
+│ └── cadastro.jpg
+└── README.md
+
+
+---
+
+## 📦 Versionamento
+- Fluxo de trabalho baseado em **GitFlow** (`main` e `develop`);  
+- Commits semânticos e organizados;  
+- Utilização de **pull requests** e **releases**;  
+- Histórico de alterações acessível pelo GitHub.
+
+---
+
+## 👨‍💻 Autor
+**Ryan Viana**  
+Projeto acadêmico desenvolvido como parte da disciplina de **Desenvolvimento Front-End**.  
+
+---
+
+## 📄 Licença
+Este é um projeto acadêmico fictício, criado apenas para fins de aprendizado e demonstração.
+
